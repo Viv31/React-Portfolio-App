@@ -7,6 +7,7 @@ import './App.css';
  import Education from './components/Education.jsx';
  import Skills from './components/Skills.jsx';
  import Footer from './components/Footer.jsx';
+ import Achievements from './components/Achievements.jsx';
 function App() {
   return (
     <>
@@ -15,6 +16,7 @@ function App() {
   <Experience></Experience>
   <Education></Education>
   <Skills></Skills>
+  <Achievements></Achievements>
   <Footer></Footer>
   </>
 );
